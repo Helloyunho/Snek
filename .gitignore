@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__
+/notification_channels.json
+/firmware_info.json
+/.env
